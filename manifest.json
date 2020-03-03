@@ -1,0 +1,70 @@
+{
+    "name": "#gym",
+    "short_name": "#gym",
+    "description": "GYM fue creada con el propósito de democratizar el acceso a la práctica de actividad física de alto nivel, con planes accesibles y adhesión facilitada. :)",
+    "background_color": "#24252a",
+    "theme_color": "#24252a",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-PE",
+    "icons": [
+      {
+        "src": "./img/gym-1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/gym-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/gym-384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/gym-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+
+      {
+        "src": "./img/gym-180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/gym-96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/gym-64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/gym-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/favicon.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ]
+  }
